@@ -33,4 +33,4 @@ the type is just there so that it's possible to create "magic" cards instead jus
 cost - man cost of the unit, the rest is self explanatory.
 
 # bugs
-There's a bug where enemy can place a card with cost higher than enemy's max mana.
+There's a rare bug where enemy can place a card with cost higher than enemy's max mana.
