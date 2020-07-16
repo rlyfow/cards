@@ -1,5 +1,5 @@
 # cards
-Tiny text based c+ card game I made in one day. You can create own unit cards for the game, the process is explained later.
+Tiny text based c++ card game I made in one day. You can create own unit cards for the game, the process is explained later.
 
 # how to play
 
